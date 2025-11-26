@@ -1,16 +1,39 @@
-## Hi there 👋
+Welcome to my GitHub profile!
 
-<!--
-**kenncarl/kenncarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 IT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in software development, databases, and tech in general
+
+🌱 Currently learning: web development, SQL, and Python
+
+🔍 Always curious about new tools and technologies
+
+🛠️ Tech Stack
+
+Languages: Python, Java, SQL, HTML, CSS
+
+Tools: VS Code, Git & GitHub, MySQL, Figma
+
+📚 Projects
+
+Here are some of the things I’m working on or plan to build:
+
+🔧 Mini projects for practice
+
+📊 Database exercises
+
+🌐 Simple web applications
+
+📈 GitHub Stats
+
+(Add stats badge later if you want)
+
+📫 Contact Me
+
+Email: (add your email here)
+
+Facebook / LinkedIn: (optional)
+
+✨ Thanks for visiting my profile!
