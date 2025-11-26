@@ -1,39 +1,43 @@
-Welcome to my GitHub profile!
+👋 Hi, I'm Kenn
 
-🚀 About Me
+🎓 IT Student passionate about software development, problem-solving, and exploring new technologies.
+💻 Currently building projects to sharpen my skills and learn real-world development concepts.
+🚀 Always improving and always curious.
 
-🎓 IT Student
+🔧 Technologies & Tools I'm Learning
 
-💡 Interested in software development, databases, and tech in general
+Languages: Java, JavaScript,
 
-🌱 Currently learning: web development, SQL, and Python
+Web: HTML, CSS,
 
-🔍 Always curious about new tools and technologies
+Database: MySQL / SQL
 
-🛠️ Tech Stack
+Tools: Git, GitHub,
 
-Languages: Python, Java, SQL, HTML, CSS
+📜 Certifications
 
-Tools: VS Code, Git & GitHub, MySQL, Figma
+SQL and Relational Databases 101: https://courses.cognitiveclass.ai/certificates/7608839207dc49e0ada237896b3ea500
 
-📚 Projects
+📌 What I’m Working On
 
-Here are some of the things I’m working on or plan to build:
+Building small projects to strengthen my fundamentals
 
-🔧 Mini projects for practice
+Learning more about backend development
 
-📊 Database exercises
+Practicing clean code, version control, and documentation
 
-🌐 Simple web applications
+📈 Goals
 
-📈 GitHub Stats
+Become confident in full-stack development
 
-(Add stats badge later if you want)
+Create meaningful projects
 
-📫 Contact Me
+Contribute to open-source in the future
 
-Email: (add your email here)
+📫 Connect With Me
 
-Facebook / LinkedIn: (optional)
+(You can add links here)
 
-✨ Thanks for visiting my profile!
+Email: your email
+
+LinkedIn: your link
